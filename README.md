@@ -19,10 +19,7 @@ ChatBot App with Pieces SDK
 ```sh
  pip install -r requirements.txt
 ```
-4. Start the Server
-```sh
- python3 app.py 
-```
+
 
 ## How to Interact with the Application 
 # The Hello World Application
@@ -32,3 +29,8 @@ Modify the *question* section in the application
  python3 hello_world.py 
 ```
 
+# The Chat Bot Application | Source reference from [Pieces Streamlit Example](https://github.com/pieces-app/pieces-copilot-streamlit-example.git "Pieces")
+Start the Chat Application
+```sh
+ streamlit run app.py
+```
