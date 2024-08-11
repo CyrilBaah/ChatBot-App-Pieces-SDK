@@ -18,4 +18,9 @@ pieces_client = PiecesClient(config)
 # Ask a question
 question = "What is Pieces for Developer?"
 response = pieces_client.ask_question(question)
-print(response)
+# print(response)
+
+# response = pieces_client.ask_question("What is the capital of France?")
+# print(response)
+print("Question Response:", response)
+
