@@ -24,4 +24,11 @@ ChatBot App with Pieces SDK
  python3 app.py 
 ```
 
-## How to Interact with the Application API
+## How to Interact with the Application 
+# The Hello World Application
+Modify the *question* section in the application 
+ - Start the application
+```sh
+ python3 hello_world.py 
+```
+

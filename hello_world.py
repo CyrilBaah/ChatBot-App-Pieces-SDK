@@ -16,8 +16,6 @@ config = {
 pieces_client = PiecesClient(config)
 
 # Ask a question
-question = "Who is the president of Ghana?"
+question = "What is Pieces for Developer?"
 response = pieces_client.ask_question(question)
-
-
 print(response)
